@@ -62,4 +62,9 @@ y_pred = ETC.predict(X_test)
 
 print('Accuracy: %.2f' % sklearn.metrics.accuracy_score(y_test, y_pred))
 
+- Please commit the code in order
+- licence: mit licence
+#contact information
+- william.joo03@gmail.com
+
 
